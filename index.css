@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #1B244A;
+    background-color: #FBBF24;
     text-align: center;
     
     
@@ -40,8 +40,8 @@ h3{
     
 }
 button{
-    background-color: #1B244A;
-    color:#9AABD8;
+    background-color: #D97706;
+    color: #EEEEEE;
     border:1px solid #9AABD8 ;
     border-radius: 2px;
     padding:5px 10px;
